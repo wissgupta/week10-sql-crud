@@ -41,7 +41,7 @@ Include execution screenshots:
 
 ## 🔗 GitHub
 
-GitHub Repo: [https://github.com/your-username/week10-sql-crud]
+GitHub Repo: [https://github.com/wissgupta/week10-sql-crud.git]
 
 ## 👨‍💻 Author
 
